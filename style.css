@@ -23,7 +23,7 @@ nav ul {
   display: flex;
   justify-content: flex-end;
   height: 70px;
-  width: 100%;
+  width: auto;
   background-color: #2d3748;
 }
 
